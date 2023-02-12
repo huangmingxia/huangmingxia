@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on [OpenShift-hive](https://github.com/openshift/hive)
+🔭 I’m currently working on [OpenShift](https://github.com/openshift)
 
 <!--
 **huangmingxia/huangmingxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
